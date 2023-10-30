@@ -4,7 +4,7 @@
 
 ## Usage
 
-These projects were built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). They also use [Font Awesome](https://fontawesome.com/) for icons.
+This project was built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). also use [Font Awesome](https://fontawesome.com/) for icons.
 
 ```bash
 npm install
